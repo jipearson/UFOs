@@ -8,7 +8,7 @@ In this project we will focus on building a dynamic UFO sightings webpage by ins
 ![](static/images/readme1.png)
 
 
-- ***Filter search section:*** In the lower left of our webpage we find a "Filter Search" section (shown below). In this section we find five text input boxes that allow us to filter our table by one or even multiple free form entries. 
+- ***Filter search section:*** In the lower left of our webpage we find a "Filter Search" section (shown below). In this section we find five text input boxes that allow us to filter our table by one or even multiple free form entries.<br/>
 ![](static/images/readme2.png)
 
 
