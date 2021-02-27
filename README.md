@@ -1,2 +1,4 @@
 # UFOs
 ![](static/images/The_Truth_Is_Out_There.PNG)
+## Project Overview
+In this project we will focus on building a dynamic webpage by inserting JavaScript into an HTML page. We will start by building a table to hold and neatly display the data we want to work with. Then we'll add filters of that table which lets users refine their search on more than one level. The table and it's filters will be inserted into, and visually displayed by an HTML page. We'll use basic HTML, Bootstrap, and CSS to build and style the page. The end result will be a presentation of data that is both visually appealing and interactive.  
