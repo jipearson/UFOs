@@ -6,7 +6,11 @@ In this project we will focus on building a dynamic UFO sightings webpage by ins
 ## Results and Webpage Functionality 
 - ***Initial webpage table:*** When we first navigate to our dynamic site we find a table containing records of 111 UFO sightings. That's a lot of data for the end user to sift through and digest all on their own. (see initial webpage below)  
 ![](static/images/readme1.png)
+
+
 - ***Filter search section:*** In the lower left of our webpage we find a "Filter Search" section (shown below). In this section we find five text input boxes that allow us to filter our table by one or even multiple free form entries. 
 ![](static/images/readme2.png)
+
+
 - ***Applying filters to our table:***
 ![](static/images/readme3.png)
